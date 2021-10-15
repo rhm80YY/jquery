@@ -1,3 +1,3 @@
 ## jquery :
-Pequeño curso de jquery se suben cambios 
+Pequeño curso de jquery donde vamos a poder mejorar nuestro conocimiento sobre lo que sabemos de esta tecnologia  
 
