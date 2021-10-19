@@ -1,0 +1,33 @@
+/* css leccion 01  */
+.textVerde {
+    color: green;
+}
+
+.textNegrita {
+    font-weight: bold;
+}
+
+/* leccion 02 */
+img{
+    width: 200px;
+    height: 200px;
+}
+hr{
+    margin-bottom: 60px;
+}
+/* leccion 03 */
+.morado{
+    color: purple;
+}
+.azul{
+    color: blue;
+}
+.marron{
+    color: brown;
+}
+.celeste{
+    color: cyan;
+}
+.verdeO{
+    color: darkgreen;
+}
