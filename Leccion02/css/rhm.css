@@ -1,0 +1,25 @@
+/* lecccion03 */
+.img100{
+    width: 100px;
+    height: 100px;
+}
+.divRojo{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+/* leccion04 */
+dl{
+    width: 400px;
+}
+dd{
+    margin: 0;
+    padding: 10px;
+}
+dt{
+    cursor: pointer;
+    font-size: 18px;
+    background-color: seagreen;
+    border-bottom: 1px solid slateblue;
+    border-top: 1px solid white;
+}
