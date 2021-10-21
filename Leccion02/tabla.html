@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabla de multiplicar con jquery</title>
+    	<!-- Importacion del jQuery -->
+	<script src="js/lib/jquery.js"></script>
+	<!-- Importacion del Bootstrap -->
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/tabla.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Tabla de Multiplicar</h1>
+        <hr>
+        <select id="cmbBase" class="form-control">
+            <option value="">Seleccione un numero</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+            <option value="8">8</option>
+            <option value="9">9</option>
+            <option value="10">10</option>
+        </select>
+
+<br>
+        <button id="boton" class="btn btn-primary">Generar valores</button>
+        <br><br>
+        <table class="table table-striped">
+            <tr>
+                <th>Base</th>
+                <th>x</th>
+                <th>Numero</th>
+                <th>=</th>
+                <th>Resultado</th>
+            </tr>
+            <tr class="resultado"></tr>
+        </table>
+    </div>
+    <script src="js/lib/tabla.js"></script>    
+</body>
+</html>
