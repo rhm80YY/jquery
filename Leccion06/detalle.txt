@@ -1,0 +1,5 @@
+-Se esta utilizando la version mas reciente de jquery y boostrap en su version 5.1
+de manera archivos externos
+-Que es una peticion ajax ::
+Es una llamado asincrono() a un servidor o al mismo servidor o a otro recuerso externo dicha petecion retorna informacion ya sea en formato archivo plano, json o otro cosa 
+--asincrono :::para el navegador web cuando nosotros llamamos a la funcion la ejecuta y ahi termina, aunque la peticion no a sido resuelta 
