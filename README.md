@@ -1,6 +1,8 @@
 ## jquery :
-Pequeño curso de jquery donde vamos a poder mejorar nuestro conocimiento sobre lo que sabemos de esta tecnologia  
-Modificacinoes pára la rama developed 
+> Pequeño curso de jquery donde vamos a poder mejorar nuestro conocimiento sobre lo que sabemos de esta tecnologia  
 
---Modificaciones que se permaneceran desde la que se empiezaa manejar los combios 
---ruben stash 
+### Nombre del repositorio : jquery 
+
+
+- https://github.com/rhm80YY/jquery.git 
+- git@github.com:rhm80YY/jquery.git 
