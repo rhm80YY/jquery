@@ -1,0 +1,40 @@
+{
+  "isActive": true,
+  "balance": "$2,518.65",
+  "picture": "http://placehold.it/32x32",
+  "age": 30,
+  "eyeColor": "brown",
+  "name": "Crane Chambers",
+  "gender": "male",
+  "company": "SEQUITUR",
+  "email": "cranechambers@sequitur.com",
+  "phone": "+1 (903) 583-3647",
+  "address": "674 Conselyea Street, Carrsville, Idaho, 9269",
+  "about": "Mollit consectetur non veniam nostrud non velit duis minim ut esse proident. Cillum nostrud excepteur deserunt veniam deserunt exercitation eiusmod laborum occaecat est ut minim. Labore cillum ea minim magna cupidatat tempor. Ad minim aliqua dolore tempor sunt labore id culpa. Qui cupidatat enim magna fugiat et veniam dolore tempor est minim irure. Sit ad labore exercitation voluptate. Minim ex ipsum quis Lorem commodo non quis non ut mollit proident adipisicing ipsum mollit.\r\n",
+  "registered": "2020-09-12T12:00:21 +03:00",
+  "latitude": 73.614377,
+  "longitude": -106.338558,
+  "tags": [
+    "id",
+    "Lorem",
+    "nulla",
+    "irure",
+    "ad",
+    "do",
+    "tempor"
+  ],
+  "friends": [
+    {
+      "id": 0,
+      "name": "Ball Holden"
+    },
+    {
+      "id": 1,
+      "name": "David Garrison"
+    },
+    {
+      "id": 2,
+      "name": "Erica Cervantes"
+    }
+  ]
+}
